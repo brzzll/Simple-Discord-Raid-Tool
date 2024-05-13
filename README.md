@@ -13,4 +13,4 @@
   - NET Framework 4.7.2
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/kEB3PCPkzc** o **https://dsc.gg/zenxcorp** )
-- Video de presentación: --
+- Video de presentación: https://www.youtube.com/watch?v=GJR0eE2Rzn8&ab_channel=brzzl
